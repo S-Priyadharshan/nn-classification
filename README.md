@@ -20,7 +20,7 @@ You are required to help the manager to predict the right group of the new custo
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
+Launch your google collab page
 
 ### STEP 2:
 Data Handling: Load "customers.csv" and drop rows with missing values. Encode string data into numerical format.
